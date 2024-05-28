@@ -13,7 +13,7 @@ An end-to-end Machine Learning Project carried out by Group 3 Zummit Africa AI/M
 
 ## Contributors
 - **NNEJI IFEANYI DANIEL**
-- **IFEZUE TOONNAEMEKA HILARY**
+- **ALFRED BRAKE**
 - **SOMTOCHUKWU OGUCHIENTI**
 - **KACHUKWU OKOH**
 
@@ -49,18 +49,6 @@ In this project 2 different classification algorithms were tested namely:
 
 The final model used for the API was the **Random Forest Classifier** model which had an accuracy score of 0.99 and an F1 score of 0.86.
 
-
-## Preview
-
-### API Demo
-![api](https://user-images.githubusercontent.com/101701760/174500152-c6256170-5c8e-42dd-b5e7-4a01c805ab99.gif)
-
-
-### Streamlit App Demo
-
-
-![credit](https://user-images.githubusercontent.com/101701760/174500101-d70e5ec1-bb50-4a67-be13-1cb561c9ed11.gif)
-
 ## How to run API and Streamlit App on Google Colab:
 <details> 
   <summary><b>💻 Running the API on Google Colab</b></summary>
@@ -68,7 +56,7 @@ The final model used for the API was the **Random Forest Classifier** model whic
 To run a demo or carry out testing with the API it's best to do that with Google Colab. To run/test the API on Google Colab do the following:
 1. Clone the repository to your Google Colab Instance.
 ```
-!git clone  https://github.com/Nneji123/Credit-Card-Fraud-Detection.git
+!git clone  https://github.com/alfredbrake1126/Fraud-Detection-for-CreditCard.git
 ```
 2. Install the requirements by running the following codes:
 ```
@@ -84,7 +72,7 @@ pyngrok
 ```
 3. Change the working directory:
 ```
-!cd /content/Credit-Card-Fraud-Detection
+!cd /content/Fraud-Detection-for-CreditCard
 ```
 
 4. Install Ngrok to your Google Colab Instance:
@@ -170,7 +158,7 @@ The **docker-compose** method can also be used to deploy the API and Streamlit a
 
 **Click the button below to start a new development environment:**
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Nneji123/Credit-Card-Fraud-Detection.)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/alfredbrake1126/Fraud-Detection-for-CreditCard.)
 
 ## Deployment
 The API and Streamlit App have both been deployed using the dockerfile on heroku and Streamlit Cloud respectively.
@@ -182,7 +170,7 @@ Assuming you have git and heroku cli installed just carry out the following step
 1. Clone the repository
 
 ```
-git clone https://github.com/Nneji123/Credit-Card-Fraud-Detection.git
+git clone https://github.com/alfredbrake1126/Fraud-Detection-for-CreditCard.git
 ```
 
 2. Change the working directory
