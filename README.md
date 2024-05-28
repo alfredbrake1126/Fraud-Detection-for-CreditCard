@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection App built with Streamlit, FastAPI and Docker
+# Fraud Detection for Credit Card App built with Streamlit, FastAPI and Docker
 
 [![Language](https://img.shields.io/badge/Python-darkblue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![Framework](https://img.shields.io/badge/sklearn-darkorange.svg?style=flat&logo=scikit-learn&logoColor=white)](http://www.pytorch.org/news.html)
@@ -10,12 +10,6 @@
 ![reposize](https://img.shields.io/github/repo-size/Nneji123/Credit-Card-Fraud-Detection)
 
 An end-to-end Machine Learning Project carried out by Group 3 Zummit Africa AI/ML Team to detect fraudulent credit card transactions. Built with FastAPI, Streamlit and Docker.
-
-## Contributors
-- **NNEJI IFEANYI DANIEL**
-- **ALFRED BRAKE**
-- **SOMTOCHUKWU OGUCHIENTI**
-- **KACHUKWU OKOH**
 
 You can check out the article on Medium describing in detail how this project was carried out.
 
